@@ -1,6 +1,10 @@
                                US Accidents ETL Project
+			       
+			       
 July29, 2020 09:12 PM
 Team Members : Kamran Abdullah, Ahmed Lotfy, Tunde Adebayo
+
+
 Overview
 	Using data reported U.S. accidents from 2016-2020, (csv found from kaggle), the US census api, and license/ vehicle information provided by the FHWA, we will report the accidents and population per county during the year of 2016. Using pandas and python, we will extract and clean the data. This will be completed using a relational database on pgAdmin, accompanied by an ERD diagram. The schema created in postgres will be broken down into second normal form.
 
