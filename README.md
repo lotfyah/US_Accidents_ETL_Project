@@ -18,21 +18,33 @@ State vehicle registration (offered by Federal Highway Administration and US dep
 
 
 Purpose/goal:
+
 To establish a database connection between the accidents recorded in 49 states in the US and the population of the county where the accident happened in 2016. We will then merge this with the number of licenses provided per state, and vehicle registration per state provided by the FHWA.
 
 
 Breakdown of tasks:
+
 Create git repository
 Identify source of data
+
 Extract: read the csv and json files from the two sources
+
 Exploring data
+
 Transform: Clean and structure using pandas
+
 Create ERD diagram
+
 Match data types, Filter Data, aggregate data
+
 Summarize data
+
 Create 2nd normal form (using relational database)
+
 Create schema
+
 Load data
+
 Take clean data and load into postgres on local host
 
 
