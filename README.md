@@ -1,5 +1,3 @@
-# US_Accidents_ETL_Project
-the project establish a relational DB for US, Accidents, Population &amp; Vehicles Registration 
                                US Accidents ETL Project
 July29, 2020 09:12 PM
 Team Members : Kamran Abdullah, Ahmed Lotfy, Tunde Adebayo
